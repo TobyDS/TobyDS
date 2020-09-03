@@ -1,3 +1,4 @@
+![Twitter Follow](https://img.shields.io/twitter/follow/TobyDixonSmith1?color=1DA1FA&logo=Twitter&style=for-the-badge)
 ### Hi there, I'm Toby 👋
 
 <!--
