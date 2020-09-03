@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[twitter]: https://twitter.com/TobyDixonSmith1
+[instagram]: https://www.instagram.com/toby_ds1/
+[linkedin]: https://www.linkedin.com/in/toby-dixon-smith-4734331a3/
+
 <br />
 
 ### Languages and Tools:
@@ -47,21 +51,8 @@ Here are some ideas to get you started:
 
 ---
 
-<!--
-### GitHub Stats
-
-[![Toby's github stats](https://github-readme-stats.vercel.app/api?username=TobyDS&hide=contribs,stars&count_private=true&show_icons=true)](https://github.com/TobyDS/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobyDS)](https://github.com/TobyDS/github-readme-stats)
-
-->>
-
 <details>
   <summary>:zap: Github Stats</summary>
 <img align="left" alt="Toby's GitHub Stats" src="http://github-readme-stats-liart-phi.vercel.app/api?username=TobyDS&show_icons=true&hide_border=true" />
 
 </details>
-
-[twitter]: https://twitter.com/TobyDixonSmith1
-[instagram]: https://www.instagram.com/toby_ds1/
-[linkedin]: https://www.linkedin.com/in/toby-dixon-smith-4734331a3/
