@@ -55,6 +55,12 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Recent Github Activity</summary>
  <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#3](https://github.com//TobyDS/Data_Structures_Project/issues/3) in [TobyDS/Data_Structures_Project](https://github.com//TobyDS/Data_Structures_Project)
+2. 🗣 Commented on [#3](https://github.com//TobyDS/Data_Structures_Project/issues/3) in [TobyDS/Data_Structures_Project](https://github.com//TobyDS/Data_Structures_Project)
+3. 🎉 Merged PR [#4](https://github.com//TobyDS/Data_Structures_Project/pull/4) in [TobyDS/Data_Structures_Project](https://github.com//TobyDS/Data_Structures_Project)
+4. 💪 Opened PR [#4](https://github.com//TobyDS/Data_Structures_Project/pull/4) in [TobyDS/Data_Structures_Project](https://github.com//TobyDS/Data_Structures_Project)
+5. ❗️ Opened issue [#3](https://github.com//TobyDS/Data_Structures_Project/issues/3) in [TobyDS/Data_Structures_Project](https://github.com//TobyDS/Data_Structures_Project)
+<!--END_SECTION:activity-->
 </details> 
 <details>
   <summary>:zap: Github Stats</summary>
