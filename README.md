@@ -1,21 +1,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/TobyDixonSmith1?color=1DA1FA&logo=Twitter&style=for-the-badge)
 ### Hi there, I'm Toby 👋
 
-<!--
-**TobyDS/TobyDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## I'm a Student!
 - 🔭 I’m currently working on a Software Development Project
 - 🌱 I’m currently learning Web Development
@@ -54,16 +39,20 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
- <!--START_SECTION:activity-->
+
+<!--START_SECTION:activity-->
 1. ❗️ Closed issue [#3](https://github.com//TobyDS/Data_Structures_Project/issues/3) in [TobyDS/Data_Structures_Project](https://github.com//TobyDS/Data_Structures_Project)
 2. 🗣 Commented on [#3](https://github.com//TobyDS/Data_Structures_Project/issues/3) in [TobyDS/Data_Structures_Project](https://github.com//TobyDS/Data_Structures_Project)
 3. 🎉 Merged PR [#4](https://github.com//TobyDS/Data_Structures_Project/pull/4) in [TobyDS/Data_Structures_Project](https://github.com//TobyDS/Data_Structures_Project)
 4. 💪 Opened PR [#4](https://github.com//TobyDS/Data_Structures_Project/pull/4) in [TobyDS/Data_Structures_Project](https://github.com//TobyDS/Data_Structures_Project)
 5. ❗️ Opened issue [#3](https://github.com//TobyDS/Data_Structures_Project/issues/3) in [TobyDS/Data_Structures_Project](https://github.com//TobyDS/Data_Structures_Project)
 <!--END_SECTION:activity-->
+
 </details> 
+
 <details>
   <summary>:zap: Github Stats</summary>
+  
 <img align="left" alt="Toby's GitHub Stats" src="http://github-readme-stats.tobyds.vercel.app/api?username=TobyDS&hide=stars,contribs&show_icons=true&hide_border=true" />
 
 </details>
