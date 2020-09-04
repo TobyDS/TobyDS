@@ -59,6 +59,6 @@
 <details>
   <summary>:zap: Language Stats</summary>
   
-<img align="left" alt="Toby's GitHub Stats" src="http://github-readme-stats.tobyds.vercel.app/api/top-langs/?username=TobyDS&hide=Hack" />
+<img align="left" alt="Toby's Most Common Lanuages" src="http://github-readme-stats.tobyds.vercel.app/api/top-langs/?username=TobyDS&hide=Hack" />
 
 </details>
