@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Recent Github Activity</summary>
  <!--START_SECTION:activity-->
- 
+</details> 
+<details>
   <summary>:zap: Github Stats</summary>
 <img align="left" alt="Toby's GitHub Stats" src="http://github-readme-stats.tobyds.vercel.app/api?username=TobyDS&hide=stars,contribs&show_icons=true&hide_border=true" />
 
