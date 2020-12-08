@@ -38,11 +38,13 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details>
   <summary>:zap: Development Stats</summary>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 </details> 
 
