@@ -39,6 +39,79 @@
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-172-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 279 Contributions in the Year 2020
+ > 
+> 📦 13.0 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 6 Private Repositories  
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
+🌆 Daytime    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22% 
+🌃 Evening    104 commits    ██████████░░░░░░░░░░░░░░░   42.28% 
+🌙 Night      114 commits    ███████████░░░░░░░░░░░░░░   46.34%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+Tuesday      47 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.11% 
+Wednesday    32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.01% 
+Thursday     31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
+Friday       62 commits     ██████░░░░░░░░░░░░░░░░░░░   25.2% 
+Saturday     6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
+Sunday       32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.01%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+C                        3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/TobyDS/TobyDS/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <details>
