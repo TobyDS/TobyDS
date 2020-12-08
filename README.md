@@ -38,7 +38,11 @@
 
 ---
 
+<details>
+  <summary>:zap: Development Stats</summary>
+
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-172-blue)
 
 **🐱 My Github Data** 
@@ -113,10 +117,6 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-<details>
-  <summary>:zap: Development Stats</summary>
-
 
 
 </details> 
