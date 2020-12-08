@@ -36,8 +36,6 @@
 <br />
 <br />
 
----
-
 ## :zap: Development Stats
 
 <!--START_SECTION:waka-->
