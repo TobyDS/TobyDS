@@ -114,4 +114,4 @@ HTML                     2 repos             ███░░░░░░░░�
 
 ## :zap: Github Stats
 
-<img align="left" alt="Toby's GitHub Stats" src="http://github-readme-stats.tobyds.vercel.app/api?username=TobyDS&hide=stars,contribs&show_icons=true&hide_border=true" />
+<img align="left" alt="Toby's GitHub Stats" src="http://github-readme-stats.tobyds.vercel.app/api?username=TobyDS&hide=stars,contribs&show_icons=true&theme=dark&hide_border=true" />
