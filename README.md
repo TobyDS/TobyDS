@@ -38,7 +38,7 @@
 
 ---
 
-:zap: Development Stats
+## :zap: Development Stats
 
 <!--START_SECTION:waka-->
 
@@ -117,6 +117,6 @@ HTML                     2 repos             ███░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-:zap: Github Stats
+## :zap: Github Stats
 
 <img align="left" alt="Toby's GitHub Stats" src="http://github-readme-stats.tobyds.vercel.app/api?username=TobyDS&hide=stars,contribs&show_icons=true&hide_border=true" />
