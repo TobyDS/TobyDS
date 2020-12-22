@@ -39,7 +39,7 @@
 ## :zap: Development Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-396-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-224-blue)
 
 **🐱 My Github Data** 
 
