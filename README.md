@@ -39,7 +39,7 @@
 ## :zap: Development Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -108,7 +108,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 18/11/2021
+ Last Updated on 19/11/2021
 <!--END_SECTION:waka-->
 
 ## :zap: Github Stats
