@@ -45,7 +45,7 @@
 
 > 🏆 4 Contributions in the Year 2021
  > 
-> 📦 13.8 kB Used in GitHub's Storage 
+> 📦 13.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -82,16 +82,16 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    25 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Bash                     25 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Terminal                 25 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      25 mins             █████████████████████████   100.0%
 
 ```
 
