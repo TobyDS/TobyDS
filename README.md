@@ -82,16 +82,16 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Bash                     25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Terminal                 25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
