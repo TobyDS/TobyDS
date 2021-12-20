@@ -39,6 +39,8 @@
 ## :zap: Development Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%208%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -82,16 +84,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Bash                     11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Terminal                 11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
