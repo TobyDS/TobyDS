@@ -39,8 +39,6 @@
 ## :zap: Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2033%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -113,7 +111,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 28/01/2022 18:21:46 UTC
+ Last Updated on 29/01/2022 00:58:22 UTC
 <!--END_SECTION:waka-->
 
 ## :zap: Github Stats
