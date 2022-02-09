@@ -39,15 +39,13 @@
 ## :zap: Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2021%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 14.1 kB Used in GitHub's Storage 
+> 📦 14.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -111,7 +109,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 08/02/2022 18:21:55 UTC
+ Last Updated on 09/02/2022 01:08:00 UTC
 <!--END_SECTION:waka-->
 
 ## :zap: Github Stats
