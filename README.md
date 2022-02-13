@@ -39,11 +39,11 @@
 ## :zap: Development Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 4 Contributions in the Year 2022
+> 🏆 5 Contributions in the Year 2022
  > 
 > 📦 14.2 kB Used in Github's Storage 
  > 
@@ -78,20 +78,20 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
-  <tr><td>TeX</td><td>3 hrs 39 mins</td><td>███████████████░░░░░░░░░░   62.8%</td></tr> 
-  <tr><td>MATLAB</td><td>1 hr 33 mins</td><td>██████░░░░░░░░░░░░░░░░░░░   26.74%</td></tr> 
-  <tr><td>CSS</td><td>11 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░   3.2%</td></tr> 
-  <tr><td>JavaScript</td><td>7 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%</td></tr> 
-  <tr><td>Text</td><td>6 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░   1.74%</td></tr>
+  <tr><td>TeX</td><td>3 hrs 46 mins</td><td>████████████████░░░░░░░░░   63.54%</td></tr> 
+  <tr><td>MATLAB</td><td>1 hr 33 mins</td><td>██████░░░░░░░░░░░░░░░░░░░   26.21%</td></tr> 
+  <tr><td>CSS</td><td>11 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░   3.14%</td></tr> 
+  <tr><td>JavaScript</td><td>7 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░   2.18%</td></tr> 
+  <tr><td>Text</td><td>6 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░   1.71%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
-  <tr><td>VS Code</td><td>5 hrs 48 mins</td><td>█████████████████████████   100.0%</td></tr>
+  <tr><td>VS Code</td><td>5 hrs 55 mins</td><td>█████████████████████████   100.0%</td></tr>
 
 <tr><th colspan="3"><br>🐱‍💻 <i>Projects</i></th></tr> 
-  <tr><td>Unknown Project</td><td>5 hrs 48 mins</td><td>█████████████████████████   100.0%</td></tr>
+  <tr><td>Unknown Project</td><td>5 hrs 55 mins</td><td>█████████████████████████   100.0%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
-  <tr><td>Windows</td><td>5 hrs 48 mins</td><td>█████████████████████████   100.0%</td></tr>
+  <tr><td>Windows</td><td>5 hrs 55 mins</td><td>█████████████████████████   100.0%</td></tr>
 </table>
 
 **I Mostly Code in C++** 
@@ -106,7 +106,7 @@
 
 
 
- Last Updated on 12/02/2022
+ Last Updated on 13/02/2022
 <!--END_SECTION:waka-->
 
 ## :zap: Github Stats
