@@ -78,17 +78,16 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
-  <tr><td>TeX</td><td>35 mins</td><td>█████████████████████████   100.0%</td></tr>
+No Activity Tracked This Week
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
-  <tr><td>VS Code</td><td>35 mins</td><td>█████████████████████████   100.0%</td></tr>
+No Activity Tracked This Week
 
 <tr><th colspan="3"><br>🐱‍💻 <i>Projects</i></th></tr> 
-  <tr><td>Unknown Project</td><td>35 mins</td><td>█████████████████████████   100.0%</td></tr>
+No Activity Tracked This Week
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
-  <tr><td>Windows</td><td>28 mins</td><td>███████████████████░░░░░░   79.33%</td></tr> 
-  <tr><td>Mac</td><td>7 mins</td><td>█████░░░░░░░░░░░░░░░░░░░░   20.67%</td></tr>
+No Activity Tracked This Week
 </table>
 
 **I Mostly Code in C++** 
