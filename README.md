@@ -43,7 +43,9 @@
 
 **🐱 My Github Data** 
 
-> 📦 14.0 kB Used in Github's Storage 
+> 🏆 7 Contributions in the Year 2022
+ > 
+> 📦 13.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -76,16 +78,16 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
-  <tr><td>Text</td><td>1 hr 19 mins</td><td>█████████████████████████   100.0%</td></tr>
+  <tr><td>Text</td><td>7 hrs 4 mins</td><td>█████████████████████████   100.0%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
-  <tr><td>VS Code</td><td>1 hr 19 mins</td><td>█████████████████████████   100.0%</td></tr>
+  <tr><td>VS Code</td><td>7 hrs 4 mins</td><td>█████████████████████████   100.0%</td></tr>
 
 <tr><th colspan="3"><br>🐱‍💻 <i>Projects</i></th></tr> 
-  <tr><td>Bomb_Lab</td><td>1 hr 19 mins</td><td>█████████████████████████   100.0%</td></tr>
+  <tr><td>Bomb_Lab</td><td>7 hrs 4 mins</td><td>█████████████████████████   100.0%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
-  <tr><td>Mac</td><td>1 hr 19 mins</td><td>█████████████████████████   100.0%</td></tr>
+  <tr><td>Mac</td><td>7 hrs 4 mins</td><td>█████████████████████████   100.0%</td></tr>
 </table>
 
 **I Mostly Code in C++** 
