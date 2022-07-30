@@ -78,16 +78,23 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
-No Activity Tracked This Week
+  <tr><td>C++</td><td>2 hrs 7 mins</td><td>███████████████████░░░░░░   76.12%</td></tr> 
+  <tr><td>Other</td><td>35 mins</td><td>█████░░░░░░░░░░░░░░░░░░░░   21.37%</td></tr> 
+  <tr><td>JSON</td><td>2 mins</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%</td></tr> 
+  <tr><td>Text</td><td>1 min</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%</td></tr> 
+  <tr><td>C</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
-No Activity Tracked This Week
+  <tr><td>VS Code</td><td>2 hrs 16 mins</td><td>████████████████████░░░░░   81.42%</td></tr> 
+  <tr><td>Bash</td><td>31 mins</td><td>████░░░░░░░░░░░░░░░░░░░░░   18.58%</td></tr>
 
 <tr><th colspan="3"><br>🐱‍💻 <i>Projects</i></th></tr> 
-No Activity Tracked This Week
+  <tr><td>shlab-handout</td><td>2 hrs 9 mins</td><td>███████████████████░░░░░░   77.28%</td></tr> 
+  <tr><td>Terminal</td><td>31 mins</td><td>████░░░░░░░░░░░░░░░░░░░░░   18.58%</td></tr> 
+  <tr><td>Unknown Project</td><td>6 mins</td><td>█░░░░░░░░░░░░░░░░░░░░░░░░   4.14%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
-No Activity Tracked This Week
+  <tr><td>Mac</td><td>2 hrs 47 mins</td><td>█████████████████████████   100.0%</td></tr>
 </table>
 
 **I Mostly Code in C++** 
@@ -102,7 +109,7 @@ No Activity Tracked This Week
 
 
 
- Last Updated on 29/07/2022
+ Last Updated on 30/07/2022
 <!--END_SECTION:waka-->
 
 ## :zap: Github Stats
