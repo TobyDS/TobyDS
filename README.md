@@ -78,21 +78,16 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
-  <tr><td>CSS</td><td>1 hr 3 mins</td><td>██████████████░░░░░░░░░░░   55.87%</td></tr> 
-  <tr><td>HTML</td><td>48 mins</td><td>██████████░░░░░░░░░░░░░░░   43.08%</td></tr> 
-  <tr><td>Git Config</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%</td></tr> 
-  <tr><td>JavaScript</td><td>0 secs</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%</td></tr>
+No Activity Tracked This Week
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
-  <tr><td>VS Code</td><td>1 hr 53 mins</td><td>█████████████████████████   100.0%</td></tr>
+No Activity Tracked This Week
 
 <tr><th colspan="3"><br>🐱‍💻 <i>Projects</i></th></tr> 
-  <tr><td>CSS - MySite</td><td>1 hr 44 mins</td><td>███████████████████████░░   92.11%</td></tr> 
-  <tr><td>Unknown Project</td><td>7 mins</td><td>█░░░░░░░░░░░░░░░░░░░░░░░░   6.66%</td></tr> 
-  <tr><td>sports-db</td><td>1 min</td><td>░░░░░░░░░░░░░░░░░░░░░░░░░   1.24%</td></tr>
+No Activity Tracked This Week
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
-  <tr><td>Mac</td><td>1 hr 53 mins</td><td>█████████████████████████   100.0%</td></tr>
+No Activity Tracked This Week
 </table>
 
 **I Mostly Code in C++** 
