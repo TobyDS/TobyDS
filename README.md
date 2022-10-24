@@ -78,16 +78,16 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
-No Activity Tracked This Week
+  <tr><td>JSON</td><td>0 secs</td><td>█████████████████████████   100.0%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
-No Activity Tracked This Week
+  <tr><td>VS Code</td><td>0 secs</td><td>█████████████████████████   100.0%</td></tr>
 
 <tr><th colspan="3"><br>🐱‍💻 <i>Projects</i></th></tr> 
-No Activity Tracked This Week
+  <tr><td>F1_EXCEL</td><td>0 secs</td><td>█████████████████████████   100.0%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
-No Activity Tracked This Week
+  <tr><td>Windows</td><td>0 secs</td><td>█████████████████████████   100.0%</td></tr>
 </table>
 
 **I Mostly Code in PHP** 
