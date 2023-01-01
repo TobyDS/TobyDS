@@ -43,7 +43,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 7 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 496.6 kB Used in Github's Storage 
  > 
@@ -102,7 +102,7 @@ No Activity Tracked This Week
 
 
 
- Last Updated on 31/12/2022
+ Last Updated on 01/01/2023
 <!--END_SECTION:waka-->
 
 ## :zap: Github Stats
