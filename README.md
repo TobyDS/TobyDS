@@ -78,16 +78,17 @@
 
 <table>
 <tr><th colspan="3"><br>💬 <i>Programming Languages</i></th></tr> 
-No Activity Tracked This Week
+  <tr><td>Other</td><td>1 hr 1 min</td><td>█████████████████████████   100.0%</td></tr>
 
 <tr><th colspan="3"><br>🔥 <i>Editors</i></th></tr> 
-No Activity Tracked This Week
+  <tr><td>Bash</td><td>1 hr 1 min</td><td>█████████████████████████   100.0%</td></tr>
 
 <tr><th colspan="3"><br>🐱‍💻 <i>Projects</i></th></tr> 
-No Activity Tracked This Week
+  <tr><td>Terminal</td><td>37 mins</td><td>███████████████░░░░░░░░░░   61.0%</td></tr> 
+  <tr><td>udemy-docker-mastery</td><td>24 mins</td><td>█████████░░░░░░░░░░░░░░░░   39.0%</td></tr>
 
 <tr><th colspan="3"><br>💻 <i>Operating System</i></th></tr> 
-No Activity Tracked This Week
+  <tr><td>Mac</td><td>1 hr 1 min</td><td>█████████████████████████   100.0%</td></tr>
 </table>
 
 **I Mostly Code in PHP** 
