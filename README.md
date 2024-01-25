@@ -1,10 +1,9 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/TobyDixonSmith1?color=1DA1FA&logo=Twitter&style=for-the-badge)
 ### Hi there, I'm Toby 👋
 
 ## I'm a Student!
-- 🔭 I’m currently working on a Software Development Project
+- 🔭 I’m currently taking a coding course with Codeworks
 - 🌱 I’m currently learning Web Development
-- 💬 Would love any internship offers
+- 💬 I'm looking for opportunities to work upon completing the course
 
 ### Connect with me:
 
