@@ -23,7 +23,7 @@
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="logos/visualstudio.png" />
 <img align="left" alt="C" title="C" width="26px" src="logos/c.png" />
 <img align="left" alt="C++" title="C++" width="26px" src="logos/c-plus.png" />
-<img align="left" alt="HTML5"title="HTML 5" width="26px" src="logos/html.png" />
+<img align="left" alt="HTML5" title="HTML 5" width="26px" src="logos/html.png" />
 <img align="left" alt="CSS3" title="CSS 3" width="26px" src="logos/css3.png" />
 <img align="left" alt="BootStrap" title="BootStrap" width="26px" src="logos/bootstrap.png" />
 <img align="left" alt="PostgresSQL" title="PostgresSPQ" width="26px" src="logos/postgresql.png" />
