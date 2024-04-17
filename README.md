@@ -112,7 +112,3 @@ CSS                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 17/04/2024 07:19:36 UTC
 <!--END_SECTION:waka-->
-https://github-readme-stats-toby-dixon-smiths-projects.vercel.app
-## :zap: Github Stats
-![TobyDS's GitHub stats](https://github-readme-stats-toby-dixon-smiths-projects.vercel.app/api?username=TobyDS)
-<img align="left" alt="Toby's GitHub Stats" src="http://github-readme-stats-4blzsaw6d-toby-dixon-smiths-projects.vercel.app/api?username=TobyDS&hide=stars,contribs&show_icons=true&theme=dark&hide_border=true" />
