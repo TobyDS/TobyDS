@@ -114,6 +114,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## :zap: Github Stats
-
-[![TobyDS's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobyDS)](https://github.com/anuraghazra/github-readme-stats)
+[![TobyDS's GitHub stats](https://github-readme-stats-4blzsaw6d-toby-dixon-smiths-projects.vercel.app/api?username=TobyDS)](https://github.com/anuraghazra/github-readme-stats)
 <img align="left" alt="Toby's GitHub Stats" src="http://github-readme-stats-4blzsaw6d-toby-dixon-smiths-projects.vercel.app/api?username=TobyDS&hide=stars,contribs&show_icons=true&theme=dark&hide_border=true" />
