@@ -1,37 +1,19 @@
-### Hi there, I'm Toby 👋
+## Hi there, I'm Toby 👋
 
-## I'm a Student!
-- 🔭 I’m currently taking a coding course with Codeworks
-- 🌱 I’m currently learning Web Development
-- 💬 I'm looking for opportunities to work upon completing the course
+I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13" /> **London, England**.
 
 ### Connect with me:
 
-[<img align="left" alt="Toby Dixon Smith | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Toby Dixon Smith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Toby Dixon Smith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/TobyDixonSmith1
-[instagram]: https://www.instagram.com/toby_ds1/
-[linkedin]: https://www.linkedin.com/in/toby-dixon-smith-4734331a3/
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="logos/visualstudio.png" />
-<img align="left" alt="C" title="C" width="26px" src="logos/c.png" />
-<img align="left" alt="C++" title="C++" width="26px" src="logos/c-plus.png" />
-<img align="left" alt="HTML5" title="HTML 5" width="26px" src="logos/html.png" />
-<img align="left" alt="CSS3" title="CSS 3" width="26px" src="logos/css3.png" />
-<img align="left" alt="BootStrap" title="BootStrap" width="26px" src="logos/bootstrap.png" />
-<img align="left" alt="PostgresSQL" title="PostgresSPQ" width="26px" src="logos/postgresql.png" />
-<img align="left" alt="Node JS" title="Node JS" width="26px" src="logos/node-js.png" />
-<img align="left" alt="Express" title="Express" width="26px" src="logos/express.png" />
-<img align="left" alt="Swift" title="Swift" width="26px" src="logos/swift.png" />
-<img align="left" alt="Git" title="Git" width="26px" src="logos/git.png" />
-<img align="left" alt="Heroku" title="Heroku" width="26px" src="logos/heroku.png" />
-<img align="left" alt="GitHub" title="GitHub" width="26px" src="logos/github.png" />
+[![JavaScript][JavaScript]][JavaScript-url] [![TypeScript][TypeScript]][TypeScript-url] [![Python][Python]][Python-url] [![CPP][CPP]][CPP-url]
+
+[![Next.js][Next.js]][Next-url] [![React][React.js]][React-url] [![Express][Express.js]][Express-url] [![Socket.io][SocketIo]][SocketIo-url] [![MUI][MUI]][MUI-url] [![MongoDB][MongoDB]][Mongo-url] [![Node][Node.js]][Node-url] [![ESLint][ESLint]][ESLint-url] [![Prettier][Prettier]][Prettier-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url] [![Shadcn][Shadcn]][Shadcn-url] [![CircleCi][CircleCi]][CircleCi-url] [![Docker][Docker]][Docker-url]
+
 <br />
 <br />
 
@@ -114,3 +96,48 @@ CSS                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 20/05/2024 06:20:55 UTC
 <!--END_SECTION:waka-->
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[CPP-url]: https://cplusplus.com/
+[CPP]: https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus
+[JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[JavaScript]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge
+[TypeScript-url]: https://www.typescriptlang.org/
+[TypeScript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge
+[Python-url]: https://www.python.org/
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/toby-dixon-smith/
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Express.js]: https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express
+[Express-url]: https://expressjs.com/
+[Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[Node-url]: https://nodejs.org/
+[MongoDB]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[Mongo-url]: https://www.mongodb.com/
+[ESLint]: https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
+[ESLint-url]: https://eslint.org/
+[Prettier]: https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E
+[Prettier-url]: https://prettier.io/
+[SocketIo-url]: https://socket.io/
+[SocketIo]: https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&badgeColor=010101
+[MUI-url]: https://mui.com/
+[MUI]: https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white
+[PostgreSQL-url]: https://www.postgresql.org/
+[PostgreSQL]: https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white
+[Git-url]: https://git-scm.com/
+[Git]: https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+[GitHub-url]: https://github.com/
+[GitHub]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[Shadcn-url]: https://ui.shadcn.com/
+[Shadcn]: https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge
+[CircleCi-url]: https://ui.shadcn.com/
+[CircleCi]: https://img.shields.io/badge/circleci-343434?logo=circleci&logoColor=fff&style=for-the-badge
+[Docker-url]: https://ui.shadcn.com/
+[Docker]: https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge
