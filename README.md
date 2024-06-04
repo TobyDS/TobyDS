@@ -28,8 +28,6 @@ I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512
 
 > 📦 503.6 kB Used in GitHub's Storage 
  > 
-> 🏆 419 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -61,20 +59,16 @@ Sunday                   231 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 13 mins       █████████████████░░░░░░░░   67.64 % 
-JSON                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Prisma                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 15 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-spot-fork                6 hrs 15 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 15 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +84,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2024 01:04:49 UTC
+ Last Updated on 04/06/2024 06:20:50 UTC
 <!--END_SECTION:waka-->
 
 
