@@ -20,7 +20,7 @@ I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512
 ## :zap: Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
@@ -59,16 +59,24 @@ Sunday                   231 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               27 mins             █████████░░░░░░░░░░░░░░░░   35.71 % 
+JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+TypeScript               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+HTML                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Prisma                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+spot-fork                20 mins             ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+results-summary-component15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+CSS-Race                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+alfred-mdn               14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+.nvm                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,7 +92,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2024 01:04:46 UTC
+ Last Updated on 05/06/2024 06:21:10 UTC
 <!--END_SECTION:waka-->
 
 
