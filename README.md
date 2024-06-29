@@ -28,6 +28,8 @@ I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512
 
 > 📦 546.3 kB Used in GitHub's Storage 
  > 
+> 🏆 436 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 27 Public Repositories 
@@ -93,7 +95,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2024 18:06:32 UTC
+ Last Updated on 29/06/2024 00:16:45 UTC
 <!--END_SECTION:waka-->
 
 
