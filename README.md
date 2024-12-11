@@ -20,7 +20,7 @@ I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512
 ## :zap: Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-910%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-915%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
@@ -28,7 +28,7 @@ I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512
 
 > 📦 622.8 kB Used in GitHub's Storage 
  > 
-> 🏆 662 Contributions in the Year 2024
+> 🏆 665 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -61,16 +61,21 @@ Sunday                   328 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 29 mins       █████████████░░░░░░░░░░░░   51.91 % 
+Python                   1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+frontend                 3 hrs 28 mins       ██████████████████░░░░░░░   72.33 % 
+backend                  1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.67 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +91,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2024 00:22:42 UTC
+ Last Updated on 11/12/2024 06:09:44 UTC
 <!--END_SECTION:waka-->
 
 
