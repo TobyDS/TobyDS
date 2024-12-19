@@ -20,7 +20,7 @@ I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512
 ## :zap: Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-971%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-972%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
@@ -28,7 +28,7 @@ I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512
 
 > 📦 622.8 kB Used in GitHub's Storage 
  > 
-> 🏆 670 Contributions in the Year 2024
+> 🏆 671 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -85,17 +85,17 @@ Mac                      46 hrs 41 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            █████████░░░░░░░░░░░░░░░░   34.29 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               13 repos            █████████░░░░░░░░░░░░░░░░   36.11 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 19/12/2024 12:10:11 UTC
+ Last Updated on 19/12/2024 18:09:15 UTC
 <!--END_SECTION:waka-->
 
 
