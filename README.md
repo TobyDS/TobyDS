@@ -28,8 +28,6 @@ I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512
 
 > 📦 623.2 kB Used in GitHub's Storage 
  > 
-> 🏆 668 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 36 Public Repositories 
@@ -61,20 +59,16 @@ Sunday                   226 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs               ████████████████████████░   97.47 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-frontend                 1 hr 21 mins        ████████████████░░░░░░░░░   65.94 % 
-Unknown Project          38 mins             ████████░░░░░░░░░░░░░░░░░   31.53 % 
-InternetRoadtripAnalysis 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +84,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2025 00:24:18 UTC
+ Last Updated on 08/07/2025 06:09:35 UTC
 <!--END_SECTION:waka-->
 
 
