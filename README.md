@@ -20,7 +20,7 @@ I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512
 ## :zap: Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C501%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C501%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
@@ -61,16 +61,21 @@ Sunday                   228 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               27 mins             ████████████████░░░░░░░░░   62.44 % 
+Other                    12 mins             ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+osm-editor-skeleton      43 mins             ████████████████████████░   96.52 % 
+frontend                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -86,7 +91,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2025 00:24:04 UTC
+ Last Updated on 09/08/2025 06:09:01 UTC
 <!--END_SECTION:waka-->
 
 
