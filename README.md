@@ -20,15 +20,13 @@ I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512
 ## :zap: Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C502%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C502%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 623.3 kB Used in GitHub's Storage 
- > 
-> 🏆 668 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -91,7 +89,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2025 18:09:01 UTC
+ Last Updated on 09/09/2025 00:24:01 UTC
 <!--END_SECTION:waka-->
 
 
