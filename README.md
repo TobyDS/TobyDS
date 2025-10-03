@@ -36,43 +36,6 @@ I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1053 commits        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-🌆 Daytime                1305 commits        ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-🌃 Evening                1477 commits        ████████░░░░░░░░░░░░░░░░░   31.43 % 
-🌙 Night                  864 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1314 commits        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-Tuesday                  763 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Wednesday                712 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Thursday                 671 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Friday                   673 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Saturday                 340 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Sunday                   226 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -86,7 +49,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 18:09:29 UTC
+ Last Updated on 03/10/2025 00:22:08 UTC
 <!--END_SECTION:waka-->
 
 
