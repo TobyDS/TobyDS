@@ -20,8 +20,6 @@ I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512
 ## :zap: Development Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C509%20hrs%2042%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.95%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -36,43 +34,6 @@ I'm a Full Stack Developer from <img src="https://cdn-icons-png.flaticon.com/512
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-🌆 Daytime                815 commits         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-🌃 Evening                1369 commits        ██████████░░░░░░░░░░░░░░░   40.40 % 
-🌙 Night                  828 commits         ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   532 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Tuesday                  698 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Wednesday                508 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Thursday                 595 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Friday                   561 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Saturday                 286 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Sunday                   209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -86,7 +47,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 06:09:31 UTC
+ Last Updated on 03/01/2026 18:08:27 UTC
 <!--END_SECTION:waka-->
 
 
